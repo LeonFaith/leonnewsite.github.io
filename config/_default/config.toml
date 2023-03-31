@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://https://leonnewsite.github.io/"
+baseurl = "https://leonnewsite.github.io/"
 languageCode = "en-us"
 paginate = 5
 title = "Try my new site"
